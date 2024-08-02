@@ -62,7 +62,6 @@
 
 .dataElementDragDestination, .comboOptionDragDestination, .indicatorContainer, .dataElementDragSource, .comboOptionDragSource {
 	height: 2em;
-	overflow: auto;
 }
 
 .mapping-tr {
